@@ -34,6 +34,6 @@ cd Taskbot_ChatBot-main
 streamlit run app.py
 
 
-<img src="Screenshot 2025-06-21 070917.png" alt="TaskBot Chat UI" width="700"/>
+"/>
 
 
