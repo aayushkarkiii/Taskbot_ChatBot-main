@@ -30,3 +30,6 @@ TaskBot is an intelligent, conversational chatbot built with **Streamlit**, **La
 ```bash
 git clone https://github.com/aayushkarkiii/Taskbot_ChatBot-main.git
 cd Taskbot_ChatBot-main
+
+streamlit run app.py
+
